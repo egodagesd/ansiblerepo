@@ -1,0 +1,4 @@
+Hostname: inventory_hostname
+Memeory: ansible_memory_mb
+Processor count: ansible__proc_count
+Disk free: vda_free
